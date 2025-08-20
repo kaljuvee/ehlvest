@@ -74,7 +74,7 @@ A modern, responsive landing page for Estonian-American Chess Grandmaster Jaan E
    - **Name**: `jaan-ehlvest-landing` (or your preferred name)
    - **Environment**: `Node`
    - **Region**: Choose your preferred region
-   - **Branch**: `main` (or your default branch)
+   - **Branch**: `main`
    - **Root Directory**: Leave empty (uses project root)
 
 4. **Build & Deploy Settings**
